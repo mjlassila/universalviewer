@@ -1,6 +1,6 @@
 {
   "localisation": {
-    "label": "Finnish"
+    "label": "Suomi"
   },
   "options": {
   },
@@ -37,7 +37,7 @@
         "searchResult": "{0} hakutulos",
         "searchResults": "{0} hakutulosta",
         "sortBy": "Järjestys:",
-        "thumbnails": "Esikatselukuvat",
+        "thumbnails": "Esikatselu",
         "title": "Aineisto",
         "volume": "osa"
       }

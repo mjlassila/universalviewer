@@ -1,6 +1,6 @@
 {
   "localisation": {
-    "label": "Finnish"
+    "label": "Suomi"
   },
   "options": {
   },
@@ -37,7 +37,7 @@
         "searchResult": "{0} hakutulos",
         "searchResults": "{0} hakutulosta",
         "sortBy": "Järjestys:",
-        "thumbnails": "Esikatselukuvat",
+        "thumbnails": "Esikatselu",
         "title": "Aineisto",
         "volume": "osa"
       }
@@ -198,8 +198,8 @@
         "enterKeyword": "Hakusana",
         "image": "kuva",
         "imageCaps": "Kuva",
-        "instanceFound": "1 /'{0}' löytyi",
-        "instancesFound": "{0} / '{1}' löytyi",
+        "instanceFound": "1 sanan '{0}' osuma",
+        "instancesFound": "{0} sanan '{1}' osumaa",
         "nextResult": "Seuraava tulos",
         "page": "sivu",
         "pageCaps": "Sivu",
@@ -218,7 +218,7 @@
         "pagingEnabled": "Kahden sivun näkymä",
         "preserveViewport": "Säilytä zoom-asetus",
         "title": "Asetukset",
-        "website": "<a href='https://github.com/universalviewer/universalviewer#contributors'>more info</a>"
+        "website": "<a href='https://github.com/universalviewer/universalviewer#contributors'>lisätietoja</a>"
       }
     },
     "shareDialogue": {
