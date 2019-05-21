@@ -1,0 +1,238 @@
+{
+  "localisation": {
+    "label": "Finnish"
+  },
+  "options": {
+  },
+  "content": {
+    "authCORSError": "Käyttämäsi selain on vanhentunut eikä se voi näyttää haluamaasi sisältöä.",
+    "authorisationFailedMessage": "Kirjautuminen epäonnistui. Ole hyvä ja yritä uudelleen.",
+    "canvasIndexOutOfRange": "Indeksivirhe.",
+    "fallbackDegradedLabel": "Kirjaudu",
+    "fallbackDegradedMessage": "Kirjaudu nähdäksesi sisällön täydessä tarkkuudessa.",
+    "forbiddenResourceMessage": "Käyttöoikeuksesi eivät riitä sisällön tarkasteluun.",
+    "termsOfUse": "Käyttöehdot"
+  },
+  "modules": {
+    "authDialogue": {
+      "content": {
+        "cancel": "Peru",
+        "confirm": "Vahvista"
+      }
+    },
+    "clickThroughDialogue": {
+      "content": {
+        "viewTerms": "Näytä käyttöehdot"
+      }
+    },
+    "contentLeftPanel": {
+      "content": {
+        "collapse": "Piilota sisältö",
+        "collapseFull": "Piilota aineisto",
+        "date": "päivämäärä",
+        "expand": "Laajenna sisältöjä",
+        "expandFull": "Laajenna kuvagalleria",
+        "index": "Hakemisto",
+        "manifestRanges": "Manifest Ranges",
+        "searchResult": "{0} hakutulos",
+        "searchResults": "{0} hakutulosta",
+        "sortBy": "Järjestys:",
+        "thumbnails": "Esikatselukuvat",
+        "title": "Aineisto",
+        "volume": "osa"
+      }
+    },
+    "dialogue": {
+      "content": {
+        "close": "Sulje"
+      }
+    },
+    "downloadDialogue": {
+      "content": {
+        "currentViewAsJpg": "Nykyinen näkymä {0} x {1}px (jpg)",
+        "currentViewAsJpgExplanation": "Avautuu uuteen ikkunaan",
+        "download": "Lataa",
+        "downloadSelection": "Lataa valitut sivut",
+        "downloadSelectionExplanation": "Avaa valikon ladattavien sivujen valintaa varten.",
+        "editSettings": "Muokkaa asetuksia",
+        "entireDocument": "Koko dokumentti ({0})",
+        "entireFileAsOriginal": "Koko tiedosto",
+        "noneAvailable": "Ei tiedostolatausasetuksia.",
+        "pagingNote": "Poista käytöstä kahden yhtäaikaisen sivun näyttö nähdäksesi enemmän asetusvaihtoehjoa.",
+        "preview": "Esikatselu",
+        "title": "Lataa",
+        "wholeImageHighRes": "Koko kuva {0} x {1}px ({2})",
+        "wholeImageHighResExplanation": "Avautuu uuteen ikkunaan.",
+        "wholeImagesHighRes": "Kokonaiset kuvat ({0})",
+        "wholeImagesHighResExplanation": "Avautuu kahteen uuteen ikkunaan.",
+        "wholeImageLowResAsJpg": "Koko kuva {0} x {1}px (jpg)",
+        "wholeImageLowResAsJpgExplanation": "Avautuu uuteen ikkunaan."
+      }
+    },
+    "footerPanel": {
+      "content": {
+        "bookmark": "Lisää kirjanmerkkeihin",
+        "download": "Lataa",
+        "embed": "Liitä",
+        "exitFullScreen": "Poistu koko ruudun tilasta",
+        "feedback": "Palaute",
+        "fullScreen": "Koko ruudun tila",
+        "moreInfo": "Aineiston tiedot",
+        "open": "Avaa",
+        "share": "Jaa"
+      }
+    },
+    "genericDialogue": {
+      "content": {
+        "emptyValue": "Anna sivunumero.",
+        "invalidNumber": "Arvon tulee olla numero.",
+        "noMatches": "Aineistossa ei ole kyseisiä sivuja.",
+        "ok": "OK",
+        "pageNotFound": "This item does not contain a page with the number you entered. Try switching the numbering mode to 'image'.",
+        "refresh": "Päivitä"
+      }
+    },
+    "helpDialogue": {
+      "content": {
+        "text": "ei sisältöä",
+        "title": "Apua"
+      }
+    },
+    "loginDialogue": {
+      "content": {
+        "login": "Kirjaudu",
+        "logout": "Kirjaudu ulos",
+        "cancel": "Peruuta"
+      }
+    },
+    "mobileFooterPanel": {
+      "content": {
+        "rotateRight": "Käännä oikealle",
+        "moreInfo": "Lisätietoja",
+        "zoomIn": "Zoomaa lähemmäksi",
+        "zoomOut": "Zoomaa ulos"
+      }
+    },
+    "moreInfoRightPanel": {
+      "content": {
+        "attribution": "Julkaisija",
+        "collapse": "Piilota aineiston tiedot",
+        "collapseFull": "Piilota kuvat",
+        "description": "Kuvaus",
+        "expand": "Näytä aineiston tiedot",
+        "expandFull": "Näytä kuvat",
+        "holdingText": "Laajennososan tiedot näyvät tässä",
+        "less": "vähemmän",
+        "license": "Käyttöoikeudet",
+        "logo": "Logo",
+        "more": "lisää",
+        "noData": "Ei näytettäviä tietoja",
+        "page": "Sivu",
+        "title": "Aineiston kuvailutiedot",
+        "manifestHeader": "Tietoja aineistosta",
+        "canvasHeader": "Tietoja kuvasta",
+        "copyToClipboard": "Kopioi leikepöydälle",
+        "copiedToClipboard": "Kopioitu leikepöydälle"
+      }
+    },
+    "multiSelectDialogue": {
+      "content": {
+        "select": "Lataa",
+        "selectAll": "Valitse kaikki",
+        "title": "Valitse ladattavat sivut"
+      }
+    },
+    "pagingHeaderPanel": {
+      "content": {
+        "close": "Sulje",
+        "emptyValue": "Please enter a value",
+        "first": "First",
+        "firstImage": "Ensimmäinen kuva",
+        "firstPage": "Ensimmäinen sivu",
+        "folio": "Aukeama",
+        "gallery": "Galleria",
+        "go": "Lataa",
+        "help": "Ohje",
+        "image": "Kuva",
+        "last": "Viimeinen",
+        "lastImage": "Viimeinen kuva",
+        "lastPage": "Viimeinen sivu",
+        "next": "Seuraava",
+        "nextImage": "Seuraava kuva",
+        "nextPage": "Seuraava sivu",
+        "of": "/ {0}",
+        "oneUp": "Yhden sivun näkymä",
+        "page": "Sivu",
+        "pageSearchLabel": "Etsi sivunumerolla",
+        "previous": "Edellinen",
+        "previousImage": "Edellinen kuva",
+        "previousPage": "Edellinen sivu",
+        "settings": "Asetukset",
+        "twoUp": "Kahden sivun näkymä"
+      }
+    },
+    "seadragonCenterPanel": {
+      "content": {
+        "attribution": "Julkaisija",
+        "goHome": "Takaisin alkuun",
+        "imageUnavailable": "Kuvaa ei ole saatavilla",
+        "next": "Seuraava",
+        "previous": "Edellinen",
+        "rotateRight": "Käännä oikealle",
+        "zoomIn": "Lähennä",
+        "zoomOut": "Loitonna"
+      }
+    },
+    "restrictedDialogue": {
+      "content": {
+        "cancel": "Peru"
+      }
+    },
+    "searchFooterPanel":
+    {
+      "content":
+      {
+        "clearSearch": "Tyhjennä",
+        "defaultLabel": "-",
+        "displaying": "{0} {1} / {2}",
+        "enterKeyword": "Hakusana",
+        "image": "kuva",
+        "imageCaps": "Kuva",
+        "instanceFound": "1 /'{0}' löytyi",
+        "instancesFound": "{0} / '{1}' löytyi",
+        "nextResult": "Seuraava tulos",
+        "page": "sivu",
+        "pageCaps": "Sivu",
+        "previousResult": "Edellinen tulos",
+        "print": "Tulosta",
+        "resultFoundFor": "tulos hakusanalle",
+        "resultsFoundFor": "tuloksia hakusanalle",
+        "searchWithin": "Hae aineistosta:"
+      }
+    },
+    "settingsDialogue": {
+      "content": {
+        "locale": "Käyttöliittymän kieli",
+        "navigatorEnabled": "Navigator Enabled",
+        "clickToZoomEnabled": "Zoomaus klikkauksella",
+        "pagingEnabled": "Kahden sivun näkymä",
+        "preserveViewport": "Säilytä zoom-asetus",
+        "title": "Asetukset",
+        "website": "<a href='https://github.com/universalviewer/universalviewer#contributors'>more info</a>"
+      }
+    },
+    "shareDialogue": {
+      "content": {
+        "customSize": "custom",
+        "embed": "Liitä",
+        "embedInstructions": "Liitä aineisto muulle verkkosivustolle kopioimalla alla oleva koodi.",
+        "height": "Korkeus",
+        "iiif": "IIIF-kuvaus",
+        "share": "Jaa",
+        "shareInstructions": "Jaa aineisto kopioimalla alla oleva osoite.",
+        "size": "Koko:",
+        "width": "Leveys"
+      }
+    }
+  }
+}
